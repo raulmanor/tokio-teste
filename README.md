@@ -7,7 +7,7 @@
 
 ### Rodando
 
-1. Clone o projeto: `https://github.com/IsaacMelo/tokio-test.git`
+1. Clone o projeto: `https://github.com/raulmanor/tokio-test.git`
 2. Entre na pasta `tokio-test` e execute: `mvn spring-boot:run`
 
 # Autenticação 
